@@ -1,0 +1,10 @@
+git commands 
+git init
+git config --global username "Ferhat Alaydin"
+git config --global user.email ferhatchem@gmail.com
+git config user.name "Ferhat Alaydin"
+git config user.email ferhatchem gmail.com
+git add 
+git commit -m "First Commit"
+git log
+git diff<filename>
